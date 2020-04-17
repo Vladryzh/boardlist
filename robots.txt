@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+User-agent: Yandex
+User-agent: YandexBot
+User-agent: Googlebot
+Host: http://bestedu.ru
+Sitemap: http://bestedu.ru/sitemap.xml
